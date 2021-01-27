@@ -1,0 +1,3 @@
+﻿spring:
+  config:
+    import: "consul:localhost:8500;app;app,prod"
